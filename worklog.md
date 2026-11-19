@@ -4,4 +4,4 @@ questo è il mio worklog.
 
 13/11/2026 - created repository.
 
-19/11/2026 - ho creato il template tabella Dublin Core con le informazioni sui metadati degli oggetti del mio prototipo
+19/11/2026 - ho creato il template tabella sui metadati degli oggetti del mio prototipo per l'esame comparati con la tabella del Dublin Core 
