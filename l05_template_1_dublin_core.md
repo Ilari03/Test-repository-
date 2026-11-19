@@ -45,6 +45,7 @@ Ogni elemento può essere ripetuto (valori multipli) o lasciato vuoto.
 - | `provenienza` | spostamenti | Colección Real (Real Alcázar, Madrid, Cuarto bajo-pieza del despacho de verano, 1700, nº 286; Palacio Real Nuevo, Madrid, antesala de la Furriera, 1747, nº 4; Palacio Real Nuevo, Madrid, paso de tribuna y trascuartos, 1772, nº 4; Palacio Real Nuevo, Madrid, cuarto de la serenísima infanta-dormitorio, 1794, s.n.; Palacio Real, Madrid, pieza amarilla, 1814-1818, nº 4). |
 - | `dimensione` | h x l in cm | 320.3 x 279.1 cm|
 - | `data di ingresso` | conoscere l'entrata in possesso del Museo | 1819 |
+
 - Quali elementi non erano chiari o potevano dare luogo a due risposte diverse?
 
 ### GenAI disclosure
