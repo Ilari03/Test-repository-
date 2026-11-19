@@ -18,34 +18,30 @@ Ogni elemento può essere ripetuto (valori multipli) o lasciato vuoto.
 
 | Element | Definition |  Your object |
 |---|---|---|
-| `title` | A name given to the resource. | Las Meninas |
-| `creator` | An entity responsible for making the resource. | Diego Rodriguez de Silva y Velazuez |
-| `date` | A point or period of time associated with an event in the lifecycle of the resource. | 1656 |
-| `type` | The nature or genre of the resource. | dipinto |
-| `subject` | A topic of the resource. | dame, principessa, famiglia, ritratto |
-| `identifier` | An unambiguous reference to the resource within a given context. | P001174 |
+| `title` | A name given to the resource. | ? |
+| `creator` | An entity responsible for making the resource. | ? |
+| `date` | A point or period of time associated with an event in the lifecycle of the resource. | ? |
+| `type` | The nature or genre of the resource. | ? |
+| `subject` | A topic of the resource. | ? |
+| `identifier` | An unambiguous reference to the resource within a given context. | ? |
 
 ### Optional core elements
 
 | Element | Definition | Your object |
 |---|---|---|
-| `description` | An account of the resource. | il dietro le quinte della vita della figlia di re Filippo IV, nel momento del suo congedo, seguita dalle sue dame, dalla vista nell'atelier del pittore Velazquez |
-| `publisher` | An entity responsible for making the resource available. | Museo del Prado |
-| `contributor` | An entity responsible for making contributions to the resource. | forse commissionata da re Filippo IV |
-| `format` | The file format, physical medium, or dimensions of the resource. | olio su tela |
-| `source` | A related resource from which the described resource is derived. | https://www.museodelprado.es/coleccion/obra-de-arte/las-meninas/9fdc7800-9ade-48b0-ab8b-edee94ea877f |
-| `language` | A language of the resource. | Spagnolo |
-| `relation` | A related resource. | su Velazquez: https://www.museodelprado.es/coleccion/artista/diego-rodriguez-de-silva-y-velazquez/434337e9-77e4-4597-a962-ef47304d930d |
-| `coverage` | The spatial or temporal topic of the resource, spatial applicability of the resource, or jurisdiction under which the resource is relevant. | 1656 Madrid, Spagna |
-| `rights` | Information about rights held in and over the resource. | Copyright © 2026. Museo Nacional del Prado. Paseo del Prado s/n. Madrid. 28014. Tel +34 91 330 2800. Todos los derechos reservados |
+| `description` | An account of the resource. | ? |
+| `publisher` | An entity responsible for making the resource available. | ? |
+| `contributor` | An entity responsible for making contributions to the resource. | ? |
+| `format` | The file format, physical medium, or dimensions of the resource. | ? |
+| `source` | A related resource from which the described resource is derived. | ? |
+| `language` | A language of the resource. | ? |
+| `relation` | A related resource. | ? |
+| `coverage` | The spatial or temporal topic of the resource, spatial applicability of the resource, or jurisdiction under which the resource is relevant. | ? |
+| `rights` | Information about rights held in and over the resource. | ? |
 
 ### Dopo averlo compilato
 
 - Cosa volevi annotare che non contenesse alcun elemento?
-- | `provenienza` | spostamenti | Colección Real (Real Alcázar, Madrid, Cuarto bajo-pieza del despacho de verano, 1700, nº 286; Palacio Real Nuevo, Madrid, antesala de la Furriera, 1747, nº 4; Palacio Real Nuevo, Madrid, paso de tribuna y trascuartos, 1772, nº 4; Palacio Real Nuevo, Madrid, cuarto de la serenísima infanta-dormitorio, 1794, s.n.; Palacio Real, Madrid, pieza amarilla, 1814-1818, nº 4). |
-- | `dimensione` | h x l in cm | 320.3 x 279.1 cm|
-- | `data di ingresso` | conoscere l'entrata in possesso del Museo | 1819 |
-
 - Quali elementi non erano chiari o potevano dare luogo a due risposte diverse?
 
 ### GenAI disclosure
