@@ -29,7 +29,7 @@ Ogni elemento può essere ripetuto (valori multipli) o lasciato vuoto.
 
 | Element | Definition | Your object |
 |---|---|---|
-| `description` | An account of the resource. | il dietro le quinte di un momento della vita della figlia di re Filippo IV, seguita dalle sue dame, nell'atelier del pittore Velazquez nel momento del suo congedo di viista |
+| `description` | An account of the resource. | il dietro le quinte della vita della figlia di re Filippo IV, seguita dalle sue dame, nel momento del suo congedo dalla vista nell'atelier del pittore Velazquez |
 | `publisher` | An entity responsible for making the resource available. | Museo del Prado |
 | `contributor` | An entity responsible for making contributions to the resource. | forse commissionata da re Filippo IV |
 | `format` | The file format, physical medium, or dimensions of the resource. | olio su tela |
