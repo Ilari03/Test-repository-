@@ -10,7 +10,7 @@
 | `identifier` | An unambiguous reference to the resource within a given context. | `identifier` | no |
 | `description` | An account of the resource. |`description` | si | pubblicità sugli impermeabili per uomo, donna e bambino |
 | `colore` | Il colore della rivista: bianco e nero o a colori. |  | si | B/N
-| `anagrafica rivista`| Titolo, periodicità, casa editrice, numero e data della rivista che contiene l'immagine | `coverage, contributor `| si | Dea, 1933-1948, Giorgio Pierotti Cei Milano, n. 2, A.8, 18 febbraio 1940 |
+| `anagrafica rivista`| Titolo, periodicità, casa editrice, numero e annata della rivista che contiene l'immagine | `coverage, contributor `| si | Dea, 1933-1948, Giorgio Pierotti Cei Milano, n. 2, A.8|
 | `copertina rivista`| Quale immagine identifica la copertina della rivista: foto o illustrazione, bianco e nero o colori.| | si | illustrazione B/N|
 | `tema`| Tema correlato all'immagine. |  |si | pubblicità, moda |
 | `publisher` | An entity responsible for making the resource available. | `publisher` | si | Biblioteca Nazionale Centrale di Roma |
@@ -33,7 +33,7 @@
 | `identifier` | An unambiguous reference to the resource within a given context. | `identifier` | no |
 | `description` | An account of the resource. |`description` | si | la rivista suggerisce degli abiti femminili ed eleganti per un'uscita di otto giorni in montagna |
 | `colore` | Il colore della rivista: bianco e nero o a colori. |  | si | B/N
-| `anagrafica rivista`| Titolo, coverage (periodicità), casa editrice, numero e data della rivista che contiene l'immagine | `coverage, contributor`| si | Dea, 1933-1948, Giorgio Pierotti Cei Milano, n. 2, A.8, 18 febbraio 1940 |
+| `anagrafica rivista`| Titolo, coverage (periodicità), casa editrice, numero e annata della rivista che contiene l'immagine | `coverage, contributor`| si | Dea, 1933-1948, Giorgio Pierotti Cei Milano, n. 2, A.8|
 | `copertina rivista`| Quale immagine identifica la copertina della rivista: foto o illustrazione, bianco e nero o colori.| `copertina rivista`| si | illustrazione B/N|
 | `tema`| Tema correlato all'immagine. |  |si | consiglio, moda |
 | `publisher` | An entity responsible for making the resource available. | `publisher` | si | Biblioteca Nazionale Centrale di Roma |
