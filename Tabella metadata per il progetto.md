@@ -20,7 +20,7 @@
 | `language` | A language of the resource. | `language`| si | italiano|
 | `relation` | A related resource. | `relation` | si | sito ufficiale della biblioteca digitale: http://digitale.bnc.roma.sbn.it/tecadigitale/ |
 | `coverage` | The spatial or temporal topic of the resource, spatial applicability of the resource, or jurisdiction under which the resource is relevant. | `coverage` | no |
-| `rights` | Information about rights held in and over the resource. | `rights` | si | © 2019 B.N.C.R | Tutti i diritti riservati |
+| `rights` | Information about rights held in and over the resource. | `rights` | si | © 2019 B.N.C.R Tutti i diritti riservati |
 ### Seconda immagine in Dea, 1933-1948, Biblioteca Nazionale Centrale Roma 
 | field| Definition |  DC equivalent | required| value rule|
 |---|---|---|---|---|
@@ -43,4 +43,4 @@
 | `language` | A language of the resource. | `language`| si | italiano|
 | `relation` | A related resource. | `relation` | si | sito ufficiale della biblioteca digitale: http://digitale.bnc.roma.sbn.it/tecadigitale/ |
 | `coverage` | The spatial or temporal topic of the resource, spatial applicability of the resource, or jurisdiction under which the resource is relevant. | `coverage` | no |
-| `rights` | Information about rights held in and over the resource. | `rights` | si | © 2019 B.N.C.R | Tutti i diritti riservati |
+| `rights` | Information about rights held in and over the resource. | `rights` | si | © 2019 B.N.C.R  Tutti i diritti riservati |
