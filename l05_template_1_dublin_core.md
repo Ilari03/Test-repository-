@@ -42,13 +42,14 @@ Ogni elemento può essere ripetuto (valori multipli) o lasciato vuoto.
 ### Dopo averlo compilato
 
 - Cosa volevi annotare che non contenesse alcun elemento?
-  
+  | Element | Definition |  Your object |
+  |---|---|---|
   | `provenienza` | spostamenti dell'opera nella storia. | Colección Real (Real Alcázar, Madrid, Cuarto bajo-pieza del despacho de verano, 1700, nº 286; Palacio Real Nuevo, Madrid, antesala de la Furriera, 1747, nº 4; Palacio Real Nuevo, Madrid, paso de tribuna y trascuartos, 1772, nº 4; Palacio Real Nuevo, Madrid, cuarto de la serenísima infanta-dormitorio, 1794, s.n.; Palacio Real, Madrid, pieza amarilla, 1814-1818, nº 4). |
-  
   | `dimensioni` | h x l in cm.| 320,3 cm; Ancho: 279,1 cm |
-  
   | `acquisizione` | quando l'opera è entrata sotto il possesso del museo.| 1818 |
+  
 - Quali elementi non erano chiari o potevano dare luogo a due risposte diverse?
+Nessuno
 
 ### GenAI disclosure
 
