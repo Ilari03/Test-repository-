@@ -22,7 +22,7 @@
 | `coverage` | The spatial or temporal topic of the resource, spatial applicability of the resource, or jurisdiction under which the resource is relevant. | `coverage` | no |
 | `rights` | Information about rights held in and over the resource. | `rights` | si | © 2019 B.N.C.R Tutti i diritti riservati |
 |`publisher_id` |URI for publisher | non specificato | si | geonames.org | https://www.geonames.org/11856544/biblioteca-nazionale-centrale-di-roma.html | 
-|`unique_id`| unique id for objects in my project | `identifier` | si | w + underscore + triple digit | w_001|
+|`image_id`| unique id for objects in my project | `identifier` | si | i + underscore + triple digit | i_001|
 
 ### Prima immagine in Lidel, 1919-1935, AMS Historica Università di Bologna
 | field| Definition |  DC equivalent | required| value rule| value source|
@@ -48,4 +48,4 @@
 | `coverage` | The spatial or temporal topic of the resource, spatial applicability of the resource, or jurisdiction under which the resource is relevant. | `coverage` | no |
 | `rights` | Legge sul diritto d’autore e i diritti connessi al suo esercizio (Legge 22 aprile 1941 n. 633 e s.s.m.i.) e alcuni di essi tutelati secondo la normativa dettata dal Codice dei beni culturali e del paesaggio (D.lgs. 22 gennaio 2004 n. 42) |
 |`publisher_id` |URI for publisher | non specificato | si | geonames.org | https://www.geonames.org/9610626/university-of-bologna.html) | 9610626 |
-|`unique_id`| unique id for objects in my project | `identifier` | si | w + underscore + triple digit | w_010|
+|`image_id`| unique id for objects in my project | `identifier` | si | i + underscore + triple digit | i_010|
