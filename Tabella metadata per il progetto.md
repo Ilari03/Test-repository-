@@ -3,7 +3,7 @@
 |---|---|---|---|---|---|
 | `title` | A name given to the resource. | `title` |si | Impermeabili Pirelli |
 | `date` | A point or period of time associated with an event in the lifecycle of the resource. | `date` | si | 18 febbraio 1940|
-| `creator` | An entity responsible for making the resource. | `creator` | si | non specificato|
+| `creator` | An entity responsible for making the resource. | `creator` | si | N/A|
 | `type` | The nature or genre of the resource. | `type` | si | illustrazione |
 | `subject` | A topic of the resource. | `subject` | si | Moda, impermeabile, uomo, donna, bambino |
 | `pagina`| La pagina della rivista in cui si trova l'immagine.|`identifier`| si | p. 6|
@@ -23,7 +23,8 @@
 | `rights` | Information about rights held in and over the resource. | `rights` | si | © 2019 B.N.C.R Tutti i diritti riservati |
 |`publisher_id` |URI for publisher | non specificato | si | geonames.org | https://www.geonames.org/11856544/biblioteca-nazionale-centrale-di-roma.html | 
 |`image_id`| unique id for objects in my project | `identifier` | si | i + underscore + triple digit | i_001|
-|`rivista_id`| wikidata for rivista | `identifier` | si | wikidata.org| non specificato |
+|`rivista_id`| wikidata for rivista | `identifier` | si | wikidata.org| N/A |
+|`creator_id`| wikidata for creator |`identifier`| si| wikidata.org| N/A|
 
 ### Prima immagine in Lidel, 1919-1935, AMS Historica Università di Bologna
 | field| Definition |  DC equivalent | required| value rule| value source|
@@ -51,3 +52,4 @@
 |`publisher_id` |URI for publisher | non specificato | si | geonames.org | https://www.geonames.org/9610626/university-of-bologna.html) | 9610626 |
 |`image_id`| unique id for objects in my project | `identifier` | si | i + underscore + triple digit | i_010|
 |`rivista_id`| wikidata for rivista | `identifier` | si |https://www.wikidata.org/wiki/Q19324506 | 19324506 |
+|`creator_id`| wikidata for creator |`identifier`| si| wikidata.org| N/A|
